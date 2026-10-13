@@ -1,6 +1,6 @@
 # 封魔の刻 ― 悪魔を目覚めさせるな ―
 
-▶ **遊ぶ：https://ryowatanabe1161-svg.github.io/fuuma-no-toki/**
+▶ **遊ぶ：https://fuusan-games.github.io/fuuma-no-toki/**
 
 ブラウザだけで遊べる、1〜5人用の **協力型カードゲーム（オンライン版）** です。
 封印師たちは力を合わせ、2〜99の「封印札」を4本の「封印の列」に納めきって、悪魔 👿 の復活を食い止めます。
